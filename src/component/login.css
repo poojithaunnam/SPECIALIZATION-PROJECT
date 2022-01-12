@@ -1,0 +1,16 @@
+.log{
+    position : absolute;
+    /* font-size: 150%; */
+    
+    top: 30%;
+    right: 50%;
+    font-family: 'Times New Roman', Times, serif; 
+    color: aqua;
+
+
+}
+
+h1{
+    font-size: 300%;
+
+}
